@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
 <!--
 **theo-mazars/theo-mazars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center"> I'm always in for new innovative projects <h2>
+
+<div align="center">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=theo-mazars&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-mazars&hide=TeX&layout=compact)
+ 
+</div>
